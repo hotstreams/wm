@@ -8,3 +8,10 @@ Simple X11 Window manager implementation using Xlib & OpenGL
 Prerequisites: CMake, Xlib, OpenGL, C++17 compiler
 
 Built on Manjaro Linux 21.0.1
+
+```
+mkdir build && cd build
+cmake ..
+make
+./wm
+```
